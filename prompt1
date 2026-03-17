@@ -1,0 +1,39 @@
+Act as an expert Senior Front-End Developer and Hackathon Winner. I am participating in the "Hacknight Hackathon" and I need your help to build a functional prototype of a Next.js web application called "InboxAutopsy". 
+
+Here is the complete context of the app:
+
+### PROJECT OVERVIEW
+**Name:** InboxAutopsy
+**Tagline:** Diagnose why your email inbox is overwhelming you.
+**Concept:** It is a digital wellbeing tool. It connects to the user's Gmail, fetches only the METADATA of their last 500 emails (Sender, Subject, Date, Read/Unread status), and passes that JSON to an LLM. The LLM acts as an "Email Therapist" and generates an "Inbox Health Report" with exactly ONE actionable fix. It does NOT read email bodies. It does NOT auto-reply.
+
+### TECH STACK
+- Framework: Next.js 14 (App Router) with TypeScript
+- Styling: Tailwind CSS
+- UI Components: Shadcn UI (Lucide React icons, Cards, Progress bars, Buttons)
+- Authentication: NextAuth.js (v4) with Google Provider (requesting `https://www.googleapis.com/auth/gmail.readonly` scope)
+- AI Integration: Anthropic Claude API (or OpenAI) 
+
+### APP FEATURES & UI LAYOUT
+1. **Landing Page (`/`):** A clean, minimalist clinical design. Big headline, brief explanation, and a "Sign in with Google" button to analyze the inbox.
+2. **Loading State:** While the AI processes the emails, show a beautiful loading screen saying "Running diagnostics on your inbox habits..."
+3. **Dashboard (`/dashboard`):** 
+   - **Overall Health Score:** A big circular progress or score (e.g., 45/100).
+   - **The 1-Click Prescription:** A massive, prominent card at the top. E.g., "You ignored 14 emails from Swiggy this week. [Button: Unsubscribe]".
+   - **Attention Vampires:** A list/chart of the top 3 senders taking up the most volume.
+   - **Newsletter Graveyard:** A list of 3 subscriptions the user constantly receives but never opens.
+
+### THE "HACKATHON CHEAT CODE" (MOCK DATA FALLBACK)
+Because setting up Google Cloud OAuth can sometimes cause issues during a hackathon, please create a "Mock Mode" toggle. If Mock Mode is true, bypass NextAuth and the Gmail API entirely, and just feed the LLM a local `dummy_emails.json` file containing 200 realistic fake email headers. This ensures I have a flawless demo for the judges no matter what.
+
+### INSTRUCTIONS FOR CLAUDE
+Do NOT write all the code at once. We will build this step-by-step. 
+
+Please acknowledge that you understand this project completely by replying with a short summary of the architecture. Then, output **STEP 1** only.
+
+**STEP 1:** Provide the terminal commands to initialize the Next.js project, install the exact dependencies (Tailwind, NextAuth, standard Shadcn components), and provide the `.env.local` structure.
+**STEP 2:** Wait for my confirmation. Then provide the NextAuth setup (`app/api/auth/[...nextauth]/route.ts`) and the Mock Data JSON file.
+**STEP 3:** Wait for my confirmation. Then provide the utility function that fetches the emails and the API route that talks to the LLM. Provide the exact system prompt you will use for the LLM.
+**STEP 4:** Wait for my confirmation. Then provide the UI code (Landing Page and the gorgeous Dashboard).
+
+Let's begin with STEP 1.
