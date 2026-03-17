@@ -8,18 +8,18 @@ InboxAutopsy is a digital wellbeing tool that connects to your Gmail, analyzes e
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-## 🎯 What It Does
+##  What It Does
 
 InboxAutopsy acts as an "Email Therapist" that:
-- ✅ Connects to your Gmail account securely
-- ✅ Fetches metadata from your last 500 emails (sender, subject, date, read/unread status)
-- ✅ **Does NOT read email bodies** - Privacy First
-- ✅ Uses AI (Anthropic Claude) to analyze your email patterns
-- ✅ Generates an "Inbox Health Report" with ONE actionable fix
-- ✅ Shows "Attention Vampires" (top senders consuming your time)
-- ✅ Reveals your "Newsletter Graveyard" (subscriptions you never read)
+-  Connects to your Gmail account securely
+-  Fetches metadata from your last 500 emails (sender, subject, date, read/unread status)
+-  **Does NOT read email bodies** - Privacy First
+-  Uses AI (Anthropic Claude) to analyze your email patterns
+-  Generates an "Inbox Health Report" with ONE actionable fix
+-  Shows "Attention Vampires" (top senders consuming your time)
+-  Reveals your "Newsletter Graveyard" (subscriptions you never read)
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Framework:** Next.js 14 (App Router) with TypeScript
 - **Styling:** Tailwind CSS
@@ -30,7 +30,7 @@ InboxAutopsy acts as an "Email Therapist" that:
 - **AI:** Anthropic Claude API
 - **Date Utilities:** date-fns
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🔧 Google Cloud Console Setup
+## Google Cloud Console Setup
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com)
 2. Create a new project or select an existing one
@@ -82,17 +82,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 5. Choose **Web application** as the application type
 6. Add authorized redirect URI: `http://localhost:3000/api/auth/callback/google`
 7. Copy the **Client ID** and **Client Secret** to your `.env.local` file
-
-## 🎪 Hackathon Demo Mode
-
-InboxAutopsy includes a **Mock Mode** for flawless demos without requiring OAuth setup. Perfect for hackathon presentations!
-
-To enable Mock Mode:
-```env
-NEXT_PUBLIC_MOCK_MODE=true
-```
-
-This bypasses Google OAuth and uses local dummy data instead.
 
 ## 📁 Project Structure
 
@@ -117,7 +106,7 @@ inboxautopsy/
 └── public/                          # Static assets
 ```
 
-## 🎨 Features
+##  Features
 
 ### Landing Page
 - Clean, minimalist clinical design
@@ -134,15 +123,15 @@ inboxautopsy/
 - **Attention Vampires:** Top 3 senders taking up the most volume
 - **Newsletter Graveyard:** Subscriptions you receive but never open
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
-- ✅ Only reads email **metadata** (no email bodies)
-- ✅ Uses `gmail.readonly` scope (cannot send or delete emails)
-- ✅ Secure OAuth 2.0 authentication
-- ✅ No data stored permanently (session-based)
-- ✅ Open source - verify the code yourself
+-  Only reads email **metadata** (no email bodies)
+-  Uses `gmail.readonly` scope (cannot send or delete emails)
+-  Secure OAuth 2.0 authentication
+-  No data stored permanently (session-based)
+-  Open source - verify the code yourself
 
-## 🛠️ Development
+##  Development
 
 ### Build for production:
 ```bash
@@ -155,7 +144,7 @@ npm run start
 npm run lint
 ```
 
-## 📝 Environment Variables
+##  Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
@@ -166,25 +155,18 @@ npm run lint
 | `ANTHROPIC_API_KEY` | Anthropic Claude API key | Yes |
 | `NEXT_PUBLIC_MOCK_MODE` | Enable demo mode (true/false) | No (default: false) |
 
-## 🤝 Contributing
-
-This is a hackathon project, but contributions are welcome! Feel free to:
-- Report bugs
-- Suggest features
-- Submit pull requests
-
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for your own hackathons or learning!
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with [Next.js](https://nextjs.org)
 - UI components from [Shadcn UI](https://ui.shadcn.com)
 - AI powered by [Anthropic Claude](https://www.anthropic.com)
 - Icons from [Lucide](https://lucide.dev)
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### "Error: Invalid redirect_uri"
 Make sure your Google Cloud Console redirect URI exactly matches: `http://localhost:3000/api/auth/callback/google`
@@ -196,5 +178,3 @@ Run `openssl rand -base64 32` and add the output to your `.env.local` file
 Ensure `NEXT_PUBLIC_MOCK_MODE=true` is set in `.env.local` and restart the dev server
 
 ---
-
-Built with ❤️ for Hacknight Hackathon

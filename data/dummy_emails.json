@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "1a2b3c4d5e6f",
+    "from": "noreply@swiggy.com",
+    "subject": "Your order has been delivered!",
+    "date": "2026-03-17T09:23:15Z",
+    "isRead": false
+  },
+  {
+    "id": "2b3c4d5e6f7g",
+    "from": "newsletter@medium.com",
+    "subject": "Top stories from Medium this week",
+    "date": "2026-03-17T08:15:30Z",
+    "isRead": false
+  },
+  {
+    "id": "3c4d5e6f7g8h",
+    "from": "sarah.johnson@techcorp.com",
+    "subject": "Re: Q1 Planning Meeting Notes",
+    "date": "2026-03-17T07:45:22Z",
+    "isRead": true
+  },
+  {
+    "id": "4d5e6f7g8h9i",
+    "from": "noreply@linkedin.com",
+    "subject": "You appeared in 12 searches this week",
+    "date": "2026-03-17T06:30:10Z",
+    "isRead": false
+  },
+  {
+    "id": "5e6f7g8h9i0j",
+    "from": "deals@amazon.in",
+    "subject": "Flash Sale: Up to 70% off on Electronics",
+    "date": "2026-03-16T22:15:45Z",
+    "isRead": false
+  },
+  {
+    "id": "6f7g8h9i0j1k",
+    "from": "noreply@github.com",
+    "subject": "[nodejs/node] New comment on issue #12345",
+    "date": "2026-03-16T21:40:33Z",
+    "isRead": true
+  },
+  {
+    "id": "7g8h9i0j1k2l",
+    "from": "updates@zomato.com",
+    "subject": "🍕 Order now and get 40% off",
+    "date": "2026-03-16T20:10:18Z",
+    "isRead": false
+  },
+  {
+    "id": "8h9i0j1k2l3m",
+    "from": "newsletter@hackernews.com",
+    "subject": "Hacker News Digest - March 16, 2026",
+    "date": "2026-03-16T19:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "9i0j1k2l3m4n",
+    "from": "michael.chen@company.io",
+    "subject": "Code Review Request: Feature/user-auth",
+    "date": "2026-03-16T17:30:42Z",
+    "isRead": true
+  },
+  {
+    "id": "0j1k2l3m4n5o",
+    "from": "noreply@twitter.com",
+    "subject": "Your weekly Twitter summary",
+    "date": "2026-03-16T16:20:11Z",
+    "isRead": false
+  },
+  {
+    "id": "1k2l3m4n5o6p",
+    "from": "alerts@bankofamerica.com",
+    "subject": "Your statement is ready",
+    "date": "2026-03-16T15:05:27Z",
+    "isRead": true
+  },
+  {
+    "id": "2l3m4n5o6p7q",
+    "from": "noreply@swiggy.com",
+    "subject": "Dinner sorted! Order now",
+    "date": "2026-03-16T14:45:39Z",
+    "isRead": false
+  },
+  {
+    "id": "3m4n5o6p7q8r",
+    "from": "team@figma.com",
+    "subject": "You've been mentioned in a comment",
+    "date": "2026-03-16T13:22:55Z",
+    "isRead": true
+  },
+  {
+    "id": "4n5o6p7q8r9s",
+    "from": "newsletter@substack.com",
+    "subject": "The Tech Insider - Issue #247",
+    "date": "2026-03-16T12:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "5o6p7q8r9s0t",
+    "from": "noreply@spotify.com",
+    "subject": "Your Discover Weekly is ready",
+    "date": "2026-03-16T11:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6p7q8r9s0t1u",
+    "from": "amanda.williams@startup.dev",
+    "subject": "Hackathon this weekend?",
+    "date": "2026-03-16T10:15:22Z",
+    "isRead": true
+  },
+  {
+    "id": "7q8r9s0t1u2v",
+    "from": "noreply@linkedin.com",
+    "subject": "People are looking at your profile",
+    "date": "2026-03-16T09:40:18Z",
+    "isRead": false
+  },
+  {
+    "id": "8r9s0t1u2v3w",
+    "from": "deals@flipkart.com",
+    "subject": "Big Billion Days are back!",
+    "date": "2026-03-16T08:25:44Z",
+    "isRead": false
+  },
+  {
+    "id": "9s0t1u2v3w4x",
+    "from": "noreply@notion.so",
+    "subject": "Your workspace digest",
+    "date": "2026-03-16T07:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "0t1u2v3w4x5y",
+    "from": "updates@zomato.com",
+    "subject": "Weekend specials near you",
+    "date": "2026-03-15T22:30:15Z",
+    "isRead": false
+  },
+  {
+    "id": "1u2v3w4x5y6z",
+    "from": "noreply@swiggy.com",
+    "subject": "Free delivery on your next order!",
+    "date": "2026-03-15T21:15:33Z",
+    "isRead": false
+  },
+  {
+    "id": "2v3w4x5y6z7a",
+    "from": "newsletter@techcrunch.com",
+    "subject": "TC Daily Roundup: March 15, 2026",
+    "date": "2026-03-15T20:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3w4x5y6z7a8b",
+    "from": "robert.taylor@clientco.com",
+    "subject": "Project timeline update needed",
+    "date": "2026-03-15T18:45:27Z",
+    "isRead": true
+  },
+  {
+    "id": "4x5y6z7a8b9c",
+    "from": "noreply@github.com",
+    "subject": "Dependabot found 3 vulnerabilities",
+    "date": "2026-03-15T17:20:11Z",
+    "isRead": true
+  },
+  {
+    "id": "5y6z7a8b9c0d",
+    "from": "newsletter@morning-brew.com",
+    "subject": "☕ Your daily business news",
+    "date": "2026-03-15T16:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6z7a8b9c0d1e",
+    "from": "noreply@linkedin.com",
+    "subject": "Sarah and 5 others viewed your profile",
+    "date": "2026-03-15T15:30:42Z",
+    "isRead": false
+  },
+  {
+    "id": "7a8b9c0d1e2f",
+    "from": "deals@amazon.in",
+    "subject": "Recommended for you based on your browsing",
+    "date": "2026-03-15T14:10:28Z",
+    "isRead": false
+  },
+  {
+    "id": "8b9c0d1e2f3g",
+    "from": "emily.davis@agency.com",
+    "subject": "Re: Design mockups ready for review",
+    "date": "2026-03-15T13:25:19Z",
+    "isRead": true
+  },
+  {
+    "id": "9c0d1e2f3g4h",
+    "from": "noreply@swiggy.com",
+    "subject": "Lunch offers ending soon!",
+    "date": "2026-03-15T12:45:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0d1e2f3g4h5i",
+    "from": "updates@zomato.com",
+    "subject": "Your Zomato Pro membership expires soon",
+    "date": "2026-03-15T11:30:33Z",
+    "isRead": false
+  },
+  {
+    "id": "1e2f3g4h5i6j",
+    "from": "newsletter@dev.to",
+    "subject": "Top 7 posts from last week",
+    "date": "2026-03-15T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2f3g4h5i6j7k",
+    "from": "noreply@netflix.com",
+    "subject": "New releases you might like",
+    "date": "2026-03-15T09:15:44Z",
+    "isRead": false
+  },
+  {
+    "id": "3g4h5i6j7k8l",
+    "from": "james.wilson@vendor.com",
+    "subject": "Invoice #INV-2026-0315",
+    "date": "2026-03-15T08:40:22Z",
+    "isRead": true
+  },
+  {
+    "id": "4h5i6j7k8l9m",
+    "from": "noreply@twitter.com",
+    "subject": "See what's happening on Twitter",
+    "date": "2026-03-15T07:25:11Z",
+    "isRead": false
+  },
+  {
+    "id": "5i6j7k8l9m0n",
+    "from": "deals@flipkart.com",
+    "subject": "Lightning deal: 60% off on headphones",
+    "date": "2026-03-14T22:50:39Z",
+    "isRead": false
+  },
+  {
+    "id": "6j7k8l9m0n1o",
+    "from": "noreply@swiggy.com",
+    "subject": "Dinner time! Check out today's menu",
+    "date": "2026-03-14T21:30:15Z",
+    "isRead": false
+  },
+  {
+    "id": "7k8l9m0n1o2p",
+    "from": "newsletter@hackerrank.com",
+    "subject": "New coding challenges this week",
+    "date": "2026-03-14T20:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8l9m0n1o2p3q",
+    "from": "lisa.martinez@partner.io",
+    "subject": "Partnership proposal discussion",
+    "date": "2026-03-14T18:35:27Z",
+    "isRead": true
+  },
+  {
+    "id": "9m0n1o2p3q4r",
+    "from": "noreply@github.com",
+    "subject": "Security alert: New vulnerability detected",
+    "date": "2026-03-14T17:15:44Z",
+    "isRead": true
+  },
+  {
+    "id": "0n1o2p3q4r5s",
+    "from": "updates@zomato.com",
+    "subject": "🎉 Double cashback this weekend",
+    "date": "2026-03-14T16:20:33Z",
+    "isRead": false
+  },
+  {
+    "id": "1o2p3q4r5s6t",
+    "from": "noreply@linkedin.com",
+    "subject": "Jobs you might be interested in",
+    "date": "2026-03-14T15:05:18Z",
+    "isRead": false
+  },
+  {
+    "id": "2p3q4r5s6t7u",
+    "from": "newsletter@css-tricks.com",
+    "subject": "Modern CSS techniques you should know",
+    "date": "2026-03-14T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3q4r5s6t7u8v",
+    "from": "deals@amazon.in",
+    "subject": "Today's deals picked for you",
+    "date": "2026-03-14T13:30:42Z",
+    "isRead": false
+  },
+  {
+    "id": "4r5s6t7u8v9w",
+    "from": "david.brown@client.com",
+    "subject": "Urgent: Server downtime tonight",
+    "date": "2026-03-14T12:45:11Z",
+    "isRead": true
+  },
+  {
+    "id": "5s6t7u8v9w0x",
+    "from": "noreply@swiggy.com",
+    "subject": "Lunch offers starting at ₹99",
+    "date": "2026-03-14T11:55:28Z",
+    "isRead": false
+  },
+  {
+    "id": "6t7u8v9w0x1y",
+    "from": "noreply@youtube.com",
+    "subject": "Recommended: New videos from your subscriptions",
+    "date": "2026-03-14T10:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "7u8v9w0x1y2z",
+    "from": "newsletter@nextjs.org",
+    "subject": "Next.js 15 is here!",
+    "date": "2026-03-14T09:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "8v9w0x1y2z3a",
+    "from": "updates@zomato.com",
+    "subject": "Friday night party? We've got food!",
+    "date": "2026-03-14T08:15:37Z",
+    "isRead": false
+  },
+  {
+    "id": "9w0x1y2z3a4b",
+    "from": "noreply@twitter.com",
+    "subject": "Trending now on Twitter",
+    "date": "2026-03-14T07:40:22Z",
+    "isRead": false
+  },
+  {
+    "id": "0x1y2z3a4b5c",
+    "from": "deals@flipkart.com",
+    "subject": "Your watchlist items are on sale!",
+    "date": "2026-03-13T22:25:15Z",
+    "isRead": false
+  },
+  {
+    "id": "1y2z3a4b5c6d",
+    "from": "noreply@swiggy.com",
+    "subject": "Order dinner and save big",
+    "date": "2026-03-13T21:10:44Z",
+    "isRead": false
+  },
+  {
+    "id": "2z3a4b5c6d7e",
+    "from": "newsletter@smashingmagazine.com",
+    "subject": "Web Design Weekly #456",
+    "date": "2026-03-13T20:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3a4b5c6d7e8f",
+    "from": "jennifer.lee@startup.io",
+    "subject": "Standup notes - March 13",
+    "date": "2026-03-13T18:50:33Z",
+    "isRead": true
+  },
+  {
+    "id": "4b5c6d7e8f9g",
+    "from": "noreply@linkedin.com",
+    "subject": "Your post has 25 new likes",
+    "date": "2026-03-13T17:35:28Z",
+    "isRead": false
+  },
+  {
+    "id": "5c6d7e8f9g0h",
+    "from": "noreply@github.com",
+    "subject": "[username/repo] Pull request merged",
+    "date": "2026-03-13T16:20:11Z",
+    "isRead": true
+  },
+  {
+    "id": "6d7e8f9g0h1i",
+    "from": "updates@zomato.com",
+    "subject": "Groceries delivered in 10 minutes",
+    "date": "2026-03-13T15:15:47Z",
+    "isRead": false
+  },
+  {
+    "id": "7e8f9g0h1i2j",
+    "from": "newsletter@javascriptweekly.com",
+    "subject": "JavaScript Weekly #678",
+    "date": "2026-03-13T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8f9g0h1i2j3k",
+    "from": "deals@amazon.in",
+    "subject": "Prime Day preview: Deals starting soon",
+    "date": "2026-03-13T13:40:22Z",
+    "isRead": false
+  },
+  {
+    "id": "9g0h1i2j3k4l",
+    "from": "noreply@swiggy.com",
+    "subject": "Lunchtime cravings? Order now",
+    "date": "2026-03-13T12:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0h1i2j3k4l5m",
+    "from": "kevin.anderson@company.com",
+    "subject": "Re: Budget approval for Q2",
+    "date": "2026-03-13T11:25:18Z",
+    "isRead": true
+  },
+  {
+    "id": "1i2j3k4l5m6n",
+    "from": "noreply@spotify.com",
+    "subject": "Wrapped 2026: Your year in music",
+    "date": "2026-03-13T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2j3k4l5m6n7o",
+    "from": "noreply@twitter.com",
+    "subject": "5 new followers this week",
+    "date": "2026-03-13T09:15:33Z",
+    "isRead": false
+  },
+  {
+    "id": "3k4l5m6n7o8p",
+    "from": "updates@zomato.com",
+    "subject": "Breakfast sorted! Fresh options nearby",
+    "date": "2026-03-13T08:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "4l5m6n7o8p9q",
+    "from": "deals@flipkart.com",
+    "subject": "Last chance: Sale ends tonight",
+    "date": "2026-03-13T07:45:27Z",
+    "isRead": false
+  },
+  {
+    "id": "5m6n7o8p9q0r",
+    "from": "noreply@swiggy.com",
+    "subject": "Your Instamart order is ready",
+    "date": "2026-03-12T22:40:15Z",
+    "isRead": false
+  },
+  {
+    "id": "6n7o8p9q0r1s",
+    "from": "newsletter@react.dev",
+    "subject": "React 19 Release Candidate",
+    "date": "2026-03-12T21:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "7o8p9q0r1s2t",
+    "from": "maria.garcia@agency.net",
+    "subject": "Client feedback on latest campaign",
+    "date": "2026-03-12T19:35:44Z",
+    "isRead": true
+  },
+  {
+    "id": "8p9q0r1s2t3u",
+    "from": "noreply@linkedin.com",
+    "subject": "Skills assessment: React Development",
+    "date": "2026-03-12T18:20:11Z",
+    "isRead": false
+  },
+  {
+    "id": "9q0r1s2t3u4v",
+    "from": "updates@zomato.com",
+    "subject": "Thursday night munchies? 🍔",
+    "date": "2026-03-12T17:50:33Z",
+    "isRead": false
+  },
+  {
+    "id": "0r1s2t3u4v5w",
+    "from": "noreply@github.com",
+    "subject": "Your CI build passed",
+    "date": "2026-03-12T16:15:28Z",
+    "isRead": true
+  },
+  {
+    "id": "1s2t3u4v5w6x",
+    "from": "deals@amazon.in",
+    "subject": "Fresh Prime Video releases",
+    "date": "2026-03-12T15:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2t3u4v5w6x7y",
+    "from": "newsletter@indieha ckers.com",
+    "subject": "How I made $10k MRR in 6 months",
+    "date": "2026-03-12T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3u4v5w6x7y8z",
+    "from": "noreply@swiggy.com",
+    "subject": "Special lunch combos near you",
+    "date": "2026-03-12T12:25:47Z",
+    "isRead": false
+  },
+  {
+    "id": "4v5w6x7y8z9a",
+    "from": "thomas.white@vendor.io",
+    "subject": "API integration documentation",
+    "date": "2026-03-12T11:40:22Z",
+    "isRead": true
+  },
+  {
+    "id": "5w6x7y8z9a0b",
+    "from": "noreply@youtube.com",
+    "subject": "New video: Build a SaaS in 24 hours",
+    "date": "2026-03-12T10:15:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6x7y8z9a0b1c",
+    "from": "noreply@twitter.com",
+    "subject": "Top tweets you missed",
+    "date": "2026-03-12T09:30:18Z",
+    "isRead": false
+  },
+  {
+    "id": "7y8z9a0b1c2d",
+    "from": "updates@zomato.com",
+    "subject": "Morning coffee delivered to your door",
+    "date": "2026-03-12T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8z9a0b1c2d3e",
+    "from": "deals@flipkart.com",
+    "subject": "Fashion sale: Up to 80% off",
+    "date": "2026-03-12T07:20:44Z",
+    "isRead": false
+  },
+  {
+    "id": "9a0b1c2d3e4f",
+    "from": "noreply@swiggy.com",
+    "subject": "Swiggy One membership: Renew now",
+    "date": "2026-03-11T22:15:33Z",
+    "isRead": false
+  },
+  {
+    "id": "0b1c2d3e4f5g",
+    "from": "newsletter@bytes.dev",
+    "subject": "Bytes #345: TypeScript tips",
+    "date": "2026-03-11T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "1c2d3e4f5g6h",
+    "from": "patricia.moore@client.co",
+    "subject": "Meeting rescheduled to Friday",
+    "date": "2026-03-11T19:45:27Z",
+    "isRead": true
+  },
+  {
+    "id": "2d3e4f5g6h7i",
+    "from": "noreply@linkedin.com",
+    "subject": "Update your profile to get noticed",
+    "date": "2026-03-11T18:30:11Z",
+    "isRead": false
+  },
+  {
+    "id": "3e4f5g6h7i8j",
+    "from": "noreply@github.com",
+    "subject": "New issue assigned to you",
+    "date": "2026-03-11T17:10:44Z",
+    "isRead": true
+  },
+  {
+    "id": "4f5g6h7i8j9k",
+    "from": "updates@zomato.com",
+    "subject": "Wednesday specials you'll love",
+    "date": "2026-03-11T16:25:00Z",
+    "isRead": false
+  },
+  {
+    "id": "5g6h7i8j9k0l",
+    "from": "deals@amazon.in",
+    "subject": "Books sale: Starting at ₹99",
+    "date": "2026-03-11T15:40:33Z",
+    "isRead": false
+  },
+  {
+    "id": "6h7i8j9k0l1m",
+    "from": "newsletter@tylermcginnis.com",
+    "subject": "Advanced React Patterns Course",
+    "date": "2026-03-11T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "7i8j9k0l1m2n",
+    "from": "noreply@swiggy.com",
+    "subject": "Craving biryani? Order now!",
+    "date": "2026-03-11T12:50:18Z",
+    "isRead": false
+  },
+  {
+    "id": "8j9k0l1m2n3o",
+    "from": "christopher.hall@company.com",
+    "subject": "Sprint retrospective summary",
+    "date": "2026-03-11T11:35:22Z",
+    "isRead": true
+  },
+  {
+    "id": "9k0l1m2n3o4p",
+    "from": "noreply@spotify.com",
+    "subject": "Release Radar: New music Friday",
+    "date": "2026-03-11T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0l1m2n3o4p5q",
+    "from": "noreply@twitter.com",
+    "subject": "What's happening in tech today",
+    "date": "2026-03-11T09:15:47Z",
+    "isRead": false
+  },
+  {
+    "id": "1m2n3o4p5q6r",
+    "from": "updates@zomato.com",
+    "subject": "Breakfast deals ending soon!",
+    "date": "2026-03-11T08:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2n3o4p5q6r7s",
+    "from": "deals@flipkart.com",
+    "subject": "Smartphone upgrade sale starts now",
+    "date": "2026-03-11T07:45:28Z",
+    "isRead": false
+  },
+  {
+    "id": "3o4p5q6r7s8t",
+    "from": "noreply@swiggy.com",
+    "subject": "Your groceries will arrive in 8 minutes",
+    "date": "2026-03-10T22:30:11Z",
+    "isRead": true
+  },
+  {
+    "id": "4p5q6r7s8t9u",
+    "from": "newsletter@frontend-focus.dev",
+    "subject": "Frontend Focus #567",
+    "date": "2026-03-10T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "5q6r7s8t9u0v",
+    "from": "daniel.rodriguez@partner.com",
+    "subject": "Contract renewal discussion",
+    "date": "2026-03-10T19:25:44Z",
+    "isRead": true
+  },
+  {
+    "id": "6r7s8t9u0v1w",
+    "from": "noreply@linkedin.com",
+    "subject": "Connect with these people you may know",
+    "date": "2026-03-10T18:10:33Z",
+    "isRead": false
+  },
+  {
+    "id": "7s8t9u0v1w2x",
+    "from": "noreply@github.com",
+    "subject": "GitHub Stars Weekly Digest",
+    "date": "2026-03-10T17:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "8t9u0v1w2x3y",
+    "from": "updates@zomato.com",
+    "subject": "Tuesday treats near you 🍰",
+    "date": "2026-03-10T16:15:27Z",
+    "isRead": false
+  },
+  {
+    "id": "9u0v1w2x3y4z",
+    "from": "deals@amazon.in",
+    "subject": "Deals of the day picked for you",
+    "date": "2026-03-10T15:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0v1w2x3y4z5a",
+    "from": "newsletter@kentcdodds.com",
+    "subject": "Testing JavaScript apps",
+    "date": "2026-03-10T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "1w2x3y4z5a6b",
+    "from": "noreply@swiggy.com",
+    "subject": "Lunch sorted! Try something new today",
+    "date": "2026-03-10T12:40:18Z",
+    "isRead": false
+  },
+  {
+    "id": "2x3y4z5a6b7c",
+    "from": "angela.thomas@agency.com",
+    "subject": "Design assets for review",
+    "date": "2026-03-10T11:20:22Z",
+    "isRead": true
+  },
+  {
+    "id": "3y4z5a6b7c8d",
+    "from": "noreply@youtube.com",
+    "subject": "Trending: AI tools for developers",
+    "date": "2026-03-10T10:05:00Z",
+    "isRead": false
+  },
+  {
+    "id": "4z5a6b7c8d9e",
+    "from": "noreply@twitter.com",
+    "subject": "Highlights from the past week",
+    "date": "2026-03-10T09:30:44Z",
+    "isRead": false
+  },
+  {
+    "id": "5a6b7c8d9e0f",
+    "from": "updates@zomato.com",
+    "subject": "Start your day right! Breakfast offers",
+    "date": "2026-03-10T08:15:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6b7c8d9e0f1g",
+    "from": "deals@flipkart.com",
+    "subject": "Early bird offers: Shop before 12 PM",
+    "date": "2026-03-10T07:30:33Z",
+    "isRead": false
+  },
+  {
+    "id": "7c8d9e0f1g2h",
+    "from": "noreply@swiggy.com",
+    "subject": "Swiggy Genie: Send packages instantly",
+    "date": "2026-03-09T22:45:27Z",
+    "isRead": false
+  },
+  {
+    "id": "8d9e0f1g2h3i",
+    "from": "newsletter@cassidoo.co",
+    "subject": "rendezvous with cassidoo #389",
+    "date": "2026-03-09T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "9e0f1g2h3i4j",
+    "from": "brian.jackson@startup.dev",
+    "subject": "Infrastructure migration plan",
+    "date": "2026-03-09T19:10:18Z",
+    "isRead": true
+  },
+  {
+    "id": "0f1g2h3i4j5k",
+    "from": "noreply@linkedin.com",
+    "subject": "Your weekly job alerts",
+    "date": "2026-03-09T18:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "1g2h3i4j5k6l",
+    "from": "noreply@github.com",
+    "subject": "Release published: v2.4.0",
+    "date": "2026-03-09T16:45:11Z",
+    "isRead": true
+  },
+  {
+    "id": "2h3i4j5k6l7m",
+    "from": "updates@zomato.com",
+    "subject": "Monday motivation: 30% off on all orders",
+    "date": "2026-03-09T15:30:44Z",
+    "isRead": false
+  },
+  {
+    "id": "3i4j5k6l7m8n",
+    "from": "deals@amazon.in",
+    "subject": "Your recommended products are on sale",
+    "date": "2026-03-09T14:20:00Z",
+    "isRead": false
+  },
+  {
+    "id": "4j5k6l7m8n9o",
+    "from": "newsletter@web.dev",
+    "subject": "Web performance optimization tips",
+    "date": "2026-03-09T13:00:00Z",
+     "isRead": false
+  },
+  {
+    "id": "5k6l7m8n9o0p",
+    "from": "noreply@swiggy.com",
+    "subject": "Pizza party? Get 1+1 free! 🍕",
+    "date": "2026-03-09T12:15:33Z",
+    "isRead": false
+  },
+  {
+    "id": "6l7m8n9o0p1q",
+    "from": "michelle.evans@client.io",
+    "subject": "Feedback on prototype",
+    "date": "2026-03-09T11:05:27Z",
+    "isRead": true
+  },
+  {
+    "id": "7m8n9o0p1q2r",
+    "from": "noreply@notion.so",
+    "subject": "You have 3 unread comments",
+    "date": "2026-03-09T10:30:00Z",
+    "isRead": true
+  },
+  {
+    "id": "8n9o0p1q2r3s",
+    "from": "noreply@twitter.com",
+    "subject": "12 new notifications",
+    "date": "2026-03-09T09:40:22Z",
+    "isRead": false
+  },
+  {
+    "id": "9o0p1q2r3s4t",
+    "from": "updates@zomato.com",
+    "subject": "Good morning! Breakfast combos available",
+    "date": "2026-03-09T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0p1q2r3s4t5u",
+    "from": "deals@flipkart.com",
+    "subject": "Weekend sale extended by popular demand",
+    "date": "2026-03-09T07:15:18Z",
+    "isRead": false
+  },
+  {
+    "id": "1q2r3s4t5u6v",
+    "from": "noreply@swiggy.com",
+    "subject": "Your order has been delivered!",
+    "date": "2026-03-08T22:50:44Z",
+    "isRead": true
+  },
+  {
+    "id": "2r3s4t5u6v7w",
+    "from": "newsletter@changelog.com",
+    "subject": "Changelog Weekly #234",
+    "date": "2026-03-08T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3s4t5u6v7w8x",
+    "from": "steven.king@company.net",
+    "subject": "Performance review scheduled",
+    "date": "2026-03-08T18:30:11Z",
+    "isRead": true
+  },
+  {
+    "id": "4t5u6v7w8x9y",
+    "from": "noreply@linkedin.com",
+    "subject": "Congratulations! You appeared in 20 searches",
+    "date": "2026-03-08T17:20:33Z",
+    "isRead": false
+  },
+  {
+    "id": "5u6v7w8x9y0z",
+    "from": "noreply@github.com",
+    "subject": "Your watched repository was updated",
+    "date": "2026-03-08T16:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "6v7w8x9y0z1a",
+    "from": "updates@zomato.com",
+    "subject": "Sunday feast! Order for the family",
+    "date": "2026-03-08T15:25:47Z",
+    "isRead": false
+  },
+  {
+    "id": "7w8x9y0z1a2b",
+    "from": "deals@amazon.in",
+    "subject": "Weekend lightning deals live now!",
+    "date": "2026-03-08T14:10:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8x9y0z1a2b3c",
+    "from": "newsletter@tailwindcss.com",
+    "subject": "Tailwind CSS v4.0 Beta is here",
+    "date": "2026-03-08T13:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "9y0z1a2b3c4d",
+    "from": "noreply@swiggy.com",
+    "subject": "Lunch time! Fresh from the kitchen",
+    "date": "2026-03-08T12:30:22Z",
+    "isRead": false
+  },
+  {
+    "id": "0z1a2b3c4d5e",
+    "from": "rachel.cooper@vendor.com",
+    "subject": "Monthly SaaS invoice",
+    "date": "2026-03-08T11:15:00Z",
+    "isRead": true
+  },
+  {
+    "id": "1a2b3c4d5e6f_2",
+    "from": "noreply@netflix.com",
+    "subject": "Continue watching: Stranger Things",
+    "date": "2026-03-08T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2b3c4d5e6f7g_2",
+    "from": "noreply@twitter.com",
+    "subject": "Good morning! See what's trending",
+    "date": "2026-03-08T09:20:18Z",
+    "isRead": false
+  },
+  {
+    "id": "3c4d5e6f7g8h_2",
+    "from": "updates@zomato.com",
+    "subject": "Brunch special: 2 for 1 combo",
+    "date": "2026-03-08T08:45:00Z",
+    "isRead": false
+  },
+  {
+    "id": "4d5e6f7g8h9i_2",
+    "from": "deals@flipkart.com",
+    "subject": "Sunday savings: Up to 60% off",
+    "date": "2026-03-08T07:30:44Z",
+    "isRead": false
+  },
+  {
+    "id": "5e6f7g8h9i0j_2",
+    "from": "noreply@swiggy.com",
+    "subject": "Weekend breakfast delivered hot! ☀️",
+    "date": "2026-03-07T22:10:27Z",
+    "isRead": false
+  },
+  {
+    "id": "6f7g8h9i0j1k_2",
+    "from": "newsletter@ui.dev",
+    "subject": "Master React Hooks in 2026",
+    "date": "2026-03-07T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "7g8h9i0j1k2l_2",
+    "from": "gregory.phillips@client.dev",
+    "subject": "Project kickoff meeting Monday",
+    "date": "2026-03-07T19:35:11Z",
+    "isRead": true
+  },
+  {
+    "id": "8h9i0j1k2l3m_2",
+    "from": "noreply@linkedin.com",
+    "subject": "Job match: Senior Developer roles",
+    "date": "2026-03-07T18:15:44Z",
+    "isRead": false
+  },
+  {
+    "id": "9i0j1k2l3m4n_2",
+    "from": "noreply@github.com",
+    "subject": "Actions workflow completed successfully",
+    "date": "2026-03-07T17:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": "0j1k2l3m4n5o_2",
+    "from": "updates@zomato.com",
+    "subject": "Saturday night party food! 🎉",
+    "date": "2026-03-07T16:30:33Z",
+    "isRead": false
+  },
+  {
+    "id": "1k2l3m4n5o6p_2",
+    "from": "deals@amazon.in",
+    "subject": "Amazon Pantry: Essentials at best prices",
+    "date": "2026-03-07T15:20:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2l3m4n5o6p7q_2",
+    "from": "newsletter@wes bos.com",
+    "subject": "30 Days of JavaScript Challenge",
+    "date": "2026-03-07T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3m4n5o6p7q8r_2",
+    "from": "noreply@swiggy.com",
+    "subject": "Afternoon snacks delivered in 15 mins",
+    "date": "2026-03-07T13:45:22Z",
+    "isRead": false
+  },
+  {
+    "id": "4n5o6p7q8r9s_2",
+    "from": "nicole.campbell@startup.io",
+    "subject": "Investor pitch deck review",
+    "date": "2026-03-07T12:30:00Z",
+    "isRead": true
+  },
+  {
+    "id": "5o6p7q8r9s0t_2",
+    "from": "noreply@spotify.com",
+    "subject": "Playlist for your weekend",
+    "date": "2026-03-07T11:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6p7q8r9s0t1u_2",
+    "from": "noreply@twitter.com",
+    "subject": "Someone retweeted your post",
+    "date": "2026-03-07T10:15:18Z",
+    "isRead": false
+  },
+  {
+    "id": "7q8r9s0t1u2v_2",
+    "from": "updates@zomato.com",
+    "subject": "Lazy Saturday? We'll handle lunch!",
+    "date": "2026-03-07T09:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8r9s0t1u2v3w_2",
+    "from": "deals@flipkart.com",
+    "subject": "Clearance sale: Everything must go!",
+    "date": "2026-03-07T08:40:44Z",
+    "isRead": false
+  },
+  {
+    "id": "9s0t1u2v3w4x_2",
+    "from": "noreply@swiggy.com",
+    "subject": "Saturday morning special menu 🌅",
+    "date": "2026-03-06T22:25:33Z",
+    "isRead": false
+  },
+  {
+    "id": "0t1u2v3w4x5y_2",
+    "from": "newsletter@fullstackopen.com",
+    "subject": "Full Stack Development Course Update",
+    "date": "2026-03-06T21:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "1u2v3w4x5y6z_2",
+    "from": "andrew.scott@company.com",
+    "subject": "Team building event next Friday",
+    "date": "2026-03-06T18:45:27Z",
+    "isRead": true
+  },
+  {
+    "id": "2v3w4x5y6z7a_2",
+    "from": "noreply@linkedin.com",
+    "subject": "Premium membership offer: 50% off",
+    "date": "2026-03-06T17:30:00Z",
+    "isRead": false
+  },
+  {
+    "id": "3w4x5y6z7a8b_2",
+    "from": "noreply@github.com",
+    "subject": "Trending repositories this week",
+    "date": "2026-03-06T16:20:11Z",
+    "isRead": true
+  },
+  {
+    "id": "4x5y6z7a8b9c_2",
+    "from": "updates@zomato.com",
+    "subject": "Friday feels! Order your favorites 🎊",
+    "date": "2026-03-06T15:10:44Z",
+    "isRead": false
+  },
+  {
+    "id": "5y6z7a8b9c0d_2",
+    "from": "deals@amazon.in",
+    "subject": "Weekend deals starting tonight",
+    "date": "2026-03-06T14:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "6z7a8b9c0d1e_2",
+    "from": "newsletter@overreacted.io",
+    "subject": "Understanding Concurrent React",
+    "date": "2026-03-06T13:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "7a8b9c0d1e2f_2",
+    "from": "noreply@swiggy.com",
+    "subject": "TGIF! Lunch offers you'll love",
+    "date": "2026-03-06T12:35:00Z",
+    "isRead": false
+  },
+  {
+    "id": "8b9c0d1e2f3g_2",
+    "from": "hannah.wright@agency.io",
+    "subject": "Campaign performance metrics Q1",
+    "date": "2026-03-06T11:20:22Z",
+    "isRead": true
+  },
+  {
+    "id": "9c0d1e2f3g4h_2",
+    "from": "noreply@youtube.com",
+    "subject": "New uploads from channels you subscribe to",
+    "date": "2026-03-06T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0d1e2f3g4h5i_2",
+    "from": "noreply@twitter.com",
+    "subject": "Weekly summary: Your tweets this week",
+    "date": "2026-03-06T09:10:18Z",
+    "isRead": false
+  },
+  {
+    "id": "1e2f3g4h5i6j_2",
+    "from": "updates@zomato.com",
+    "subject": "Fresh breakfast options near you 🥐",
+    "date": "2026-03-06T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "2f3g4h5i6j7k_2",
+    "from": "deals@flipkart.com",
+    "subject": "Friday flash sale starts in 1 hour!",
+    "date": "2026-03-06T07:25:44Z",
+    "isRead": false
+  },
+  {
+    "id": "3g4h5i6j7k8l_2",
+    "from": "noreply@swiggy.com",
+    "subject": "Your Swiggy Money cashback expires soon",
+    "date": "2026-03-05T22:40:00Z",
+    "isRead": false
+  },
+  {
+    "id": "4h5i6j7k8l9m_2",
+    "from": "security@github.com",
+    "subject": "New sign-in from Chrome on Windows",
+    "date": "2026-03-05T21:30:33Z",
+    "isRead": true
+  },
+  {
+    "id": "5i6j7k8l9m0n_2",
+    "from": "william.baker@client.com",
+    "subject": "Final approval needed on proposal",
+    "date": "2026-03-05T19:15:27Z",
+    "isRead": true
+  },
+  {
+    "id": "6j7k8l9m0n1o_2",
+    "from": "noreply@linkedin.com",
+    "subject": "You have 8 new messages",
+    "date": "2026-03-05T18:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "7k8l9m0n1o2p_2",
+    "from": "updates@zomato.com",
+    "subject": "Dinner cravings? Order now and save! 🌙",
+    "date": "2026-03-05T17:25:11Z",
+    "isRead": false
+  },
+  {
+    "id": "8l9m0n1o2p3q_2",
+    "from": "noreply@swiggy.com",
+    "subject": "Exclusive: Early access to new restaurant",
+    "date": "2026-03-05T16:10:00Z",
+    "isRead": false
+  },
+  {
+    "id": "9m0n1o2p3q4r_2",
+    "from": "deals@amazon.in",
+    "subject": "Your wishlist items just got cheaper!",
+    "date": "2026-03-05T15:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": "0n1o2p3q4r5s_2",
+    "from": "newsletter@uidesigndaily.com",
+    "subject": "Daily UI inspiration #1234",
+    "date": "2026-03-05T14:00:00Z",
+    "isRead": false
+  }
+]
