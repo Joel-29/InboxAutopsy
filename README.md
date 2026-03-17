@@ -1,4 +1,4 @@
-# 📧 InboxAutopsy
+# InboxAutopsy
 
 > **Diagnose why your email inbox is overwhelming you.**
 
